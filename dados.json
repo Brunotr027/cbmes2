@@ -1,0 +1,19 @@
+{
+  "Pessoal": [
+    {
+      "labels": "Militares",
+      "data:": 1500,
+      "backgroundColor": "red"
+    },
+    {
+      "labels": "Civis",
+      "data:": 150,
+      "backgroundColor": "blue"
+    },
+    {
+      "labels": "Estágiarios",
+      "data:": 50,
+      "backgroundColor": "yellow"
+    }
+  ]
+}

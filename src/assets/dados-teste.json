@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Hardik",
+    "email": "hardik@gmail.com",
+    "role": "Militar",
+    "city": "Piúma"
+  },
+  {
+    "id": 2,
+    "name": "Shivam",
+    "email": "shivam@gmail.com",
+    "role": "Civil",
+    "city": "Muqui"
+  },
+  {
+    "id": 3,
+    "name": "Anubha",
+    "email": "anubha@gmail.com",
+    "role": "Militar",
+    "city": "Alegre"
+  },
+  {
+    "id": 4,
+    "name": "Mohit",
+    "email": "mohit@gmail.com",
+    "role": "Militar",
+    "city": "Vitória"
+  },
+  {
+    "id": 5,
+    "name": "Shubam",
+    "email": "shubam@gmail.com",
+    "role": "Estagiário",
+    "city": "Vitória"
+  },
+  {
+    "id": 6,
+    "name": "Luna",
+    "email": "luna@gmail.com",
+    "role": "Militar",
+    "city": "Afonso Cláudio"
+  },
+  {
+    "id": 7,
+    "name": "Rubens",
+    "email": "rubens@gmail.com",
+    "role": "Militar",
+    "city": "Vitória"
+  },
+  {
+    "id": 8,
+    "name": "Lara",
+    "email": "lara@gmail.com",
+    "role": "Militar",
+    "city": "Ecoporanga"
+  },
+  {
+    "id": 9,
+    "name": "Amelia",
+    "email": "amelia@gmail.com",
+    "role": "Militar",
+    "city": "Serra"
+  },
+  {
+    "id": 10,
+    "name": "Tom",
+    "email": "tom@gmail.com",
+    "role": "Militar",
+    "city": "Vila Velha"
+  },
+  {
+    "id": 11,
+    "name": "Gina",
+    "email": "gina@gmail.com",
+    "role": "Civil",
+    "city": "Vitória"
+  },
+  {
+    "id": 12,
+    "name": "Emanuel",
+    "email": "emanuel@gmail.com",
+    "role": "Civil",
+    "city": "Muqui"
+  },
+  {
+    "id": 13,
+    "name": "Victor",
+    "email": "victor@gmail.com",
+    "role": "Estagiário",
+    "city": "Serra"
+  },
+  {
+    "id": 14,
+    "name": "Sarah",
+    "email": "sarah@gmail.com",
+    "role": "Militar",
+    "city": "Cariacica"
+  }
+]

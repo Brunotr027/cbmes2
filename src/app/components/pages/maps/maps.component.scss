@@ -1,0 +1,37 @@
+* {
+  outline: none;
+}
+
+.map-teste {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100rem;
+  height: 100vh;
+
+}
+
+.municipio path{
+  transition: .2s all ease;
+  fill: #8e8e91;
+  stroke: #dcdde1;
+}
+
+.municipio:hover path{
+  fill: #C6C6C6;
+}
+
+mat-divider {
+  height: 100%;
+}
+
+.chart {
+  background: red;
+  position: relative;
+  margin-top: 20vh;
+  width: 30vh;
+  height: 30vh;
+}
+
+.hide {
+  display: block;
+}
